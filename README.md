@@ -1,2 +1,3 @@
 # New_Demo
-My first git repository
+My first git repository.
+Author - Hritik Raj
